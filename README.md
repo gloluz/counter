@@ -2,7 +2,7 @@ With this project you can increment and decrement counters. You can add counters
 
 ## Installation
 
-First, clone the project.
+First, clone the project: https://github.com/gloluz/counter.git
 
 ## Read
 
