@@ -13,3 +13,11 @@ First, clone the project: https://github.com/gloluz/counter.git
 To read this project:
 
 `yarn start`
+
+## Contributing
+
+To contributing please refer to the [CONTRIBUTING.MD](CONTRIBUTING.MD)
+
+## License
+
+[LICENSE MIT](LICENSE)
