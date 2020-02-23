@@ -2,7 +2,11 @@
 
 ## Description
 
-With this project you can increment and decrement counters. You can add counters too.
+With this project you can increment and decrement counters. You can add counters too. The responsive is included.
+
+![](capture2.png)
+
+![](capture.png)
 
 ## Installation
 

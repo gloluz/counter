@@ -32,7 +32,9 @@ function App() {
           <h1>React Counter V2</h1>
         </div>
       </header>
+
       <AddCounter onAdd={handleAddCounter} />
+
       <div className="counters">
         {counters.map((counter, index) => {
           return (

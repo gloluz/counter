@@ -60,3 +60,13 @@
 .counter__reset {
   margin-top: 77px;
 }
+
+@media screen and (max-width: 1024px) {
+  .counter {
+    margin-bottom: 60px;
+  }
+
+  .button {
+    margin-top: 20px;
+  }
+}

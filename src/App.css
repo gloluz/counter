@@ -27,3 +27,9 @@ h1 {
   overflow: scroll;
   overflow-x: scroll;
 }
+
+@media screen and (max-width: 1024px) {
+  .counters {
+    flex-direction: column;
+  }
+}
