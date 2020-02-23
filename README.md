@@ -18,6 +18,8 @@ To read this project:
 
 `yarn start`
 
+Or with this link: [https://elastic-shaw-822966.netlify.com/]
+
 ## Contributing
 
 To contributing please refer to the [CONTRIBUTING.MD](CONTRIBUTING.MD)
